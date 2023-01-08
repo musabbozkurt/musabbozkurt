@@ -49,7 +49,7 @@ Programming, Design Patterns and SOLID Principles.</h4>
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
 <p align="center">
-<a href="https://linkedin.com/in/musabbozkurt" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="musabbozkurt" /></a>
+<a href="https://linkedin.com/in/musab-bozkurt-24924986" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="musabbozkurt" /></a>
 <a href="https://github.com/musabbozkurt" target="_blank"><img align="center" src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white" alt="musabbozkurt" /></a>
 <a href="mailto:b_musab@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Outlook-blue?style=flat-square&logo=Gmail&logoColor=white" alt="musabbozkurt" /></a>
 <a href="https://stackoverflow.com/users/10585453" target="_blank"><img align="center" src="https://img.shields.io/badge/Stackoverflow-white?style=flat-square&logo=Stackoverflow&logoColor=" alt="musabbozkurt" /></a>
