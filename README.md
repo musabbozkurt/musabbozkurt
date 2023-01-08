@@ -11,14 +11,14 @@
 
 - 🌱 I’m currently learning **CI/CD, Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/musabbozkurt](https://github.com/musabbozkurt)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/musabbozkurt)
 
 - 💬 Ask me about **Java, Spring Boot, Spring Frameworks, SQL**
 
 - 📫 How to reach me **b_musab@hotmail.com**
 
 - 📄 Know about my
-  experiences [https://linkedin.com/in/musab-bozkurt-24924986](https://linkedin.com/in/musab-bozkurt-24924986)
+  experiences [LinkedIn](https://linkedin.com/in/musab-bozkurt-24924986)
 
 <h3 align="left">Connect with me:</h3>
 
