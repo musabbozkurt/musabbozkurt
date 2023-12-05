@@ -6,7 +6,7 @@ Programming, Design Patterns and SOLID Principles.</h4>
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40"> **About me** ️
 
-- 🔭 I’m currently working on [AutoScout24](https://www.autoscout24.com.tr/)
+- 🔭 I’m currently working on [Ozan SuperApp](https://www.ozan.com)
 
 - 🌱 I’m currently learning **CI/CD, Kotlin**
 
