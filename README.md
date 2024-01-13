@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Musab Bozkurt</h3>
 
 <h4 align="center">A Software Developer from Turkey. Working as a Software Engineer in Telecommunications, Finance and
-Banking industries. Making development by using Microservice and Event-Driven Architectures, Object-Oriented
+Banking industries since November 2016. Making development by using Microservice and Event-Driven Architectures, Object-Oriented
 Programming, Design Patterns and SOLID Principles.</h4>
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40"> **About me** ️
