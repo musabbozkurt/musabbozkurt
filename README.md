@@ -1,19 +1,14 @@
 <h3 align="center">Hi 👋, I'm Musab Bozkurt</h3>
 
-<h4 align="center">A Software Developer from Turkey. Working as a Software Engineer in Telecommunications, Finance and
-Banking industries since November 2016. Making development by using Microservice and Event-Driven Architectures, Object-Oriented
-Programming, Design Patterns and SOLID Principles.</h4>
+<h4 align="center">Working as a Software Engineer in Telecommunications, Finance, Banking and Retail industries since
+November 2016. Making development by using Microservice and Event-Driven Architectures, Object-Oriented Programming,
+Design Patterns and SOLID Principles.</h4>
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40"> **About me** ️
 
-- 🌱 I’m currently learning **CI/CD, Kotlin**
-
-- 💬 Ask me about **Java, Spring Boot, Spring Frameworks, SQL**
-
 - 👨‍💻 All of my projects are available at [Github](https://github.com/musabbozkurt)
 
-- 📄 Know about my
-  experiences [LinkedIn](https://linkedin.com/in/musab-bozkurt-24924986)
+- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/musab-bozkurt-24924986)
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40"> **Languages and Tools:** ️
 
