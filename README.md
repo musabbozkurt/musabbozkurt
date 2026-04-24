@@ -1,77 +1,91 @@
-<h3 align="center">Hi 👋, I'm Musab Bozkurt</h3>
+<div align="center">
 
-<h4 align="center">Working as a Software Engineer in Telecommunications, Finance, Banking and Retail industries since
-November 2016. Making development by using Microservice and Event-Driven Architectures, Object-Oriented Programming,
-Design Patterns and SOLID Principles.</h4>
+# Hi 👋, I'm Musab Bozkurt
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40"> **About me** ️
+### Principal Software Engineer · Backend Development Expertise · System & Software Architecture Design
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/musabbozkurt)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Principal+Software+Engineer;Telecom+%7C+Finance+%7C+Banking+%7C+Retail;Monolithic+%7C+Modular+Monolith;Event-Driven+Architecture+%7C+Microservices;Java+%7C+Spring+Boot+%7C+Kafka+%7C+Redis;OOP+%7C+Design+Patterns+%7C+SOLID+Principles;Agile+%7C+Scrum+%7C+Kanban)](https://git.io/typing-svg)
 
-- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/musab-bozkurt-24924986)
+</div>
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40"> **Languages and Tools:** ️
+---
 
-<p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-</p>
+## 🧑‍💻 About Me
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
+Backend-focused Software Engineer working **since 2016** across FinTech, Automotive, Telecommunications, Finance,
+Banking, and Retail industries. Experienced with **Monolithic Architecture**, **Modular Monolith**, and
+**Microservices**, including **Event-Driven Architectures**, with **Java/Spring Boot**, while also having exposure to
+**Scala** and **Full Stack development**. Comfortable across cloud platforms (**GCP**, **AWS**), multiple database
+paradigms, and a wide range of observability and DevOps tooling. Practices **TDD**, **Agile (Scrum & Kanban)**, and
+**SOLID, DRY, KISS** principles consistently across teams and domains. Actively uses AI-assisted development tools such
+as **Claude**, **Gemini**, **ChatGPT**, **Codex**, **GitHub Copilot**, and **Junie** to speed up application delivery
+and improve engineering productivity.
+
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/musabbozkurt)**
+- 📄 Know about my experiences on **[LinkedIn](https://linkedin.com/in/musab-bozkurt-24924986)**
+
+---
+
+### 🔖 Tech Stack at a Glance
+
+| Category           | Technologies                                                                                        |
+|--------------------|-----------------------------------------------------------------------------------------------------|
+| **Languages**      | Java 7/8/11/17/21/25, Kotlin, Python, Scala                                                         |
+| **Frameworks**     | Spring Boot, Spring Framework, Spring Cloud OpenFeign, Hibernate, Thymeleaf, Lombok                 |
+| **Messaging**      | Apache Kafka, RabbitMQ                                                                              |
+| **Databases**      | PostgreSQL, Oracle DB, MongoDB, MySQL, Redis, Elasticsearch                                         |
+| **Observability**  | Prometheus, Grafana, Kibana, Graylog, Zipkin, AppDynamics, Datadog, New Relic                       |
+| **DevOps & CI/CD** | Docker, Kubernetes, Azure DevOps, Jenkins, Maven, Flyway                                            |
+| **Cloud**          | GCP, AWS                                                                                            |
+| **Testing**        | Testcontainers, JUnit                                                                               |
+| **Methodology**    | Agile (Scrum & Kanban), Monolithic, Modular Monolith, Microservices, Event-Driven, SOLID, DRY, KISS |
+| **AI Tools**       | ChatGPT, Claude, Gemini, Codex, GitHub Copilot, Junie                                               |
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/musab-bozkurt-24924986" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="musabbozkurt" /></a>
-<a href="https://github.com/musabbozkurt" target="_blank"><img align="center" src="https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white" alt="musabbozkurt" /></a>
-<a href="mailto:b_musab@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Outlook-blue?style=flat-square&logo=Gmail&logoColor=white" alt="musabbozkurt" /></a>
-<a href="https://stackoverflow.com/users/10585453" target="_blank"><img align="center" src="https://img.shields.io/badge/Stackoverflow-white?style=flat-square&logo=Stackoverflow&logoColor=" alt="musabbozkurt" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=musabbozkurt&label=Profile%20views&color=0e75b6&style=flat" alt="musabbozkurt" /> </p>
+  <a href="https://linkedin.com/in/musab-bozkurt-24924986" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/musabbozkurt" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:b_musab@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+  </a>
+  <a href="https://stackoverflow.com/users/10585453" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+</p>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=musabbozkurt&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
 
-<details>
-  <summary>📊 <b>Github Readme Stats</b></summary>
- <br />
- <p align="center">
-  <a href="https://github.com/musabbozkurt">
-   <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=musabbozkurt&show_icons=true&theme=radical&count_private=true">
-  </a>
-  <a href="https://github.com/musabbozkurt/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=musabbozkurt&layout=compact&theme=radical&langs_count=10" />
-  </a>
-  <a href="https://github.com/musabbozkurt/github-readme-streak-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musabbozkurt&layout=compact&theme=radical&langs_count=10" />
-  </a>
- </p>
+---
+
+## 📊 GitHub Stats
+
+<details open>
+  <summary>📈 <b>Activity Overview</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=musabbozkurt&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub stats"/>
+  </p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=musabbozkurt&theme=radical&hide_border=true" alt="GitHub streak"/>
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musabbozkurt&layout=compact&theme=radical&langs_count=10&hide_border=true" alt="Top languages"/>
+  </p>
 </details>
 
-<details>
- <summary>🏆 <b>Github Profile Trophy</b></summary>
- <br />
- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=musabbozkurt&column=8&theme=darkhub"/>
-  </a>
- </p>
+<details open>
+  <summary>📊 <b>Contribution Graph</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=musabbozkurt&theme=redical&hide_border=true" alt="Contribution graph"/>
+  </p>
 </details>
