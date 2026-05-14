@@ -70,27 +70,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<details open>
-  <summary>📈 <b>Activity Overview</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=musabbozkurt&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub stats"/>
-  </p>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=musabbozkurt&theme=radical&hide_border=true" alt="GitHub streak"/>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musabbozkurt&layout=compact&theme=radical&langs_count=10&hide_border=true" alt="Top languages"/>
-  </p>
-</details>
-
-<details open>
-  <summary>📊 <b>Contribution Graph</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=musabbozkurt&theme=redical&hide_border=true" alt="Contribution graph"/>
-  </p>
-</details>
